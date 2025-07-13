@@ -20,7 +20,7 @@ This project allows users to fill a form with basic property details and generat
 ![Form Screenshot](./public/form.png)
 
 ### 📄 Generated PDF Content
-![PDF Screenshot](./generated/pdf.png)
+![PDF Screenshot](./generated/pdf-preview.png)
 
 > These screenshots show sample data filled by the user.
 
